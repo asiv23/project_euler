@@ -5,6 +5,7 @@ This program finds the sum of multiples from two numbers until an upper limit.
 If a number is a multiple of both inputs they're only counted once.
 Originally the program was hardcoded for the numbers given in the problem but it has been modified
 so that user will input the two numbers, then an upper limit.
+No error checking on user input.
 '''
 
 def getMultipleSum(x, y, limit): #get multiples of x (user input) from x to limit
