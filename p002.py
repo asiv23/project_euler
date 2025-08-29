@@ -1,5 +1,5 @@
 '''
-Problem 2 - Even Fibonacci Numbers
+Problem 2 - Even Fibonacci Numbers (Python)
 
 This program finds the sum of the even or odd numbers of the Fibonacci sequence starting from 1,2 until an upper limit.
 Originally the program was hardcoded to print the sum of even numbers under 4 million

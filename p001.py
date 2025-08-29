@@ -1,5 +1,5 @@
 '''
-Problmen 1 - Multiples of 3 or 5
+Problmen 1 - Multiples of 3 or 5  (Python)
 
 This program finds the sum of multiples from two numbers until an upper limit.
 If a number is a multiple of both inputs they're only counted once.
